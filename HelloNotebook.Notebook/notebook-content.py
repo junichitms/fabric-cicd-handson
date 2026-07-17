@@ -13,7 +13,7 @@
 
 # Welcome to your new notebook
 # Type here in the cell editor to add code!
-print("Hello from Fabric → GitHub → VS Code!")
+print("Hello from Fabric → GitHub → VS Code! (edited locally)")
 
 # METADATA ********************
 
